@@ -1,5 +1,6 @@
 .coverage
 .tox
+.idea/
 docs/_build
 *.py[co]
 *.egg-info
